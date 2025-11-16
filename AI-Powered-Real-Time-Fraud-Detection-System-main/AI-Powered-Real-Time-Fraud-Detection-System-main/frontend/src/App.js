@@ -1,6 +1,6 @@
 import React from "react";
-import TransactionScore from "/Users/mac/Desktop/FRAUD DETECTION/frontend/src/TransactionScore.js";
-import Dashboard from "/Users/mac/Desktop/FRAUD DETECTION/frontend/src/Dashboard.jsx";
+import TransactionScore from "./TransactionScore.js";
+import Dashboard from "./Dashboard.jsx";
 
 function App() {
   return (
@@ -10,6 +10,8 @@ function App() {
       <hr />
       <Dashboard />
     </div>
+
+    // lll
   );
 }
 
